@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ahmed+Moosani;AI%2FML+Developer+%7C+Computer+Vision+%7C+Agentic+AI;Mumbai%2C+India" />
+<img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=500&pause=800&color=FFFD30&background=000000&multiline=true&width=435&lines=Pratham+Sangurdekar+;AI%2FML+enthusiast+;Full+Stack)](https://git.io/typing-svg)" />
 
 <br/>
 
