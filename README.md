@@ -9,7 +9,7 @@
 I like working with AI-driven technologies<br>I love collaborating on full-stack projects<br>I'm actively learning new AI technologies & workflows<br>I'm always going through a creative block ;)<br>🇮🇳 Indian, 20 y/o.
 
 
-## Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratham__s_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-sangurdekar-966348389/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratham.savi0412@gmail.com) 
 
 # Tech Stack:
