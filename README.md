@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com font=Audiowide&duration=3000&pause=500&color=FFFD30&center=true&vCenter=true&multiline=true&width=450&height=100&lines=Pratham+Sangurdekar+;AI%2FML+enthusiast+;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.comfont=Audiowide&duration=3000&pause=500&color=FFFD30&center=true&vCenter=true&multiline=true&width=450&height=100&lines=Pratham+Sangurdekar+;AI%2FML+enthusiast+;Full+Stack+Developer" />
 </div>
 
 <br/>
