@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=500&pause=800&color=FFFD30&background=000000&multiline=true&width=435&lines=Pratham+Sangurdekar+;AI%2FML+enthusiast+;Full+Stack)](https://git.io/typing-svg)" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=500&pause=1000&color=FFFD30&background=000000&center=true&vCenter=true&multiline=true&width=435&lines=Pratham+Sangurdekar+;AI%2FML+enthusiast+;Full+Stack)](https://git.io/typing-svg" />
 
 <br/>
 
-# About Pratham 
+
 I like working with AI-driven technologies<br>I love collaborating on full-stack projects<br>I'm actively learning new AI technologies & workflows<br>I'm always going through a creative block ;)<br>🇮🇳 Indian, 20 y/o.
 
 
