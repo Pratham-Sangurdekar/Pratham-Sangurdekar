@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ahmed+Moosani;AI%2FML+Developer+%7C+Computer+Vision+%7C+Agentic+AI;Mumbai%2C+India" alt="header](https://readme-typing-svg.herokuapp.com/demo/?font=Press+Start+2P&weight=500&pause=800&color=FFFD30&background=000000&multiline=true&lines=Pratham+Sangurdekar+;AI%2FML+enthusiast+;Full+Stack)" />
+
+<br/>
+
 # About Pratham 
 I like working with AI-driven technologies<br>I love collaborating on full-stack projects<br>I'm actively learning new AI technologies & workflows<br>I'm always going through a creative block ;)<br>🇮🇳 Indian, 20 y/o.
 
